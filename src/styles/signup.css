@@ -1,0 +1,20 @@
+.signUp_parent{
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right, rgb(192, 199, 90), rgba(255, 255, 255, 0.959));
+    padding-bottom: 10px;
+}
+.Main_Signup {
+    width: 100vw;
+    height: 100vh;
+    background-image: radial-gradient(#a4df7e,#37D7BC);
+}
+
+#avatar{
+        background:'#B1DD58'
+}
+
+
+
+#signinlink{
+    color:black;
+}

@@ -1,0 +1,22 @@
+.contentpost_main{
+    background-image: radial-gradient(#445f69,#37D7BC);
+    height: 46vw;
+}
+.post_form{
+    border-radius: 10px;
+    padding-top: 20px;
+    background-image: linear-gradient(to bottom right, rgb(253, 253, 253), rgba(255, 255, 255, 0.959));
+}
+.post_input{
+    width: 80%;
+}
+textarea{
+    resize: horizontal;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#post_button{
+    width: 100%;
+}

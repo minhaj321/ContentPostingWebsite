@@ -1,0 +1,61 @@
+#like{
+    color:green;
+    background-color:rgb(255, 255, 255);
+    border: none;
+    height: 30px;
+    width: 70px;
+    border-bottom: 2px solid green;
+    
+}
+#report{
+    color: red;
+    background-color:rgb(255, 255, 255);
+    border: none;
+    height: 30px;
+    width:70px;
+    border-bottom: 2px solid red;
+
+}
+.media{
+    background-color:rgb(255, 255, 255);
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.avatar{
+    border-radius: 50%;
+}
+.description{
+    display: inline;
+    font-size: 25px;
+}
+.main{
+    color: black;
+    font-size: 20px;
+}
+.post_img{
+    margin-left: -40px;
+    width: 40%;
+    height: 300px;
+    float:left;
+}
+.reports_show , .likes_show{
+    float: right;
+}
+.reports_show {
+    float: left;
+}
+
+.dlt_btn{
+    width: 160px;
+    margin-left: 20%;
+    height: 40px;
+    font-size: 17px;
+    border: none;
+    background-color: white;
+    color: red;
+    /* border-top: 2px solid red; */
+    border-bottom: 2px solid red;
+    /* border-right: 2px solid red; */
+}
